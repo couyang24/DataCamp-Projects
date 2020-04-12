@@ -1,5 +1,6 @@
 # DataCamp-Projects
-The projects include R & Python & SQL
+The projects include R & Python & SQL. 
+I have stopped using Data Camp for a while and for anyone who are still using it and willing to contibute to this repo, please make a PR and I will be more than happy to review it.
 
 ## R
 Introduction to DataCamp Projects
